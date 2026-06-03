@@ -1,4 +1,8 @@
 Hello GitHub!
 I am learning Git and GitHub.
 This line exists only in test branch.
+<<<<<<< HEAD
 Main branch was here.
+=======
+Test branch was here.
+>>>>>>> test
